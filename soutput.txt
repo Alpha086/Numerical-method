@@ -1,0 +1,7 @@
+Iteration number: 1  x_i-1 =  3.0000 x_i =   4.0000 x_i+1 =   3.3265 epsilon_a =  0.2024539877300615 
+Iteration number: 2  x_i-1 =  4.0000 x_i =   3.3265 x_i+1 =   3.4813 epsilon_a =  0.0444498636243423 
+Iteration number: 3  x_i-1 =  3.3265 x_i =   3.4813 x_i+1 =   3.5863 epsilon_a =  0.0292790329882925 
+Iteration number: 4  x_i-1 =  3.4813 x_i =   3.5863 x_i+1 =   3.5613 epsilon_a =  0.0070016268470562 
+Iteration number: 5  x_i-1 =  3.5863 x_i =   3.5613 x_i+1 =   3.5631 epsilon_a =  0.0005002358416857 
+
+The Final root is: 3.5631 
